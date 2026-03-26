@@ -6,4 +6,3 @@
 - Added cart and wishlist features for user interaction
 - Integrated secure online payment using Razorpay
 
-  ![Home page](main  - Copy.png)
